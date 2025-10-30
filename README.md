@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Nazir
 
-<!--
-**nazirmohammed202/nazirmohammed202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack software engineer with a focus on building scalable, data-driven applications that bridge modern web technologies with real-world impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Technical Skills
+
+**Frontend:** ⚛️ React · 🟦 TypeScript · 🔥 Next.js · 🎨 Tailwind CSS · 📊 Recharts  
+**Backend:** 🧠 Node.js · 🚀 Express.js · 🍃 MongoDB · 🐘 PostgreSQL  . SQL
+**Blockchain:** ⛓️ Solidity · 💎 Smart Contracts · 🪙 NFT Integration · 🌐 Web3.js  
+**IoT & Systems:** 🤖 Device Integration · 📡 Data Sync · ☁️ Cloud APIs  
+**Other Tools:** 🐳 Docker · ⚡ PM2 · 🕊️ RabbitMQ · 🔥 Firebase · 🧭 Git · 🎨 Figma  
+
+---
+
+### 💡 What I Enjoy
+✨ Designing systems that are fast, reliable, and intuitive  
+🧩 Turning complex workflows into seamless user experiences  
+🌍 Building tools that make technology more sustainable and meaningful  
+
+---
+
+📚 *Always learning. Always building.*  
