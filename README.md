@@ -4,6 +4,13 @@ Senior Software Engineer specializing in backend architecture, distributed syste
 
 Over the past 6+ years, I've designed and built production software across web, mobile, cloud, and IoT environments. My experience spans multi-tenant SaaS applications, event-driven systems, centralized authentication, marketplaces, and React Native applications used by real businesses.
 
+# Highlights
+
+• Architected a multi-tenant SaaS platform used by 56 organizations.
+• Built a marketplace with 100,000+ Android installs.
+• Led an engineering team of up to 16 people.
+• Designed a centralized authentication platform shared across multiple applications.
+
 ## What I've Built
 
 ### Wasteknot
