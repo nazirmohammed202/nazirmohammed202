@@ -1,24 +1,111 @@
-# 👋 Hi, I'm Mohammed Nazir
+# Mohammed Nazir
 
-💻 Full-stack software engineer with a focus on building scalable, data-driven applications that bridge modern web technologies with real-world impact.
+Senior Software Engineer specializing in backend architecture, distributed systems, and scalable SaaS platforms.
 
----
+Over the past 6+ years, I've designed and built production software across web, mobile, cloud, and IoT environments. My experience spans multi-tenant SaaS applications, event-driven systems, centralized authentication, marketplaces, and React Native applications used by real businesses.
 
-### ⚙️ Technical Skills
+## What I've Built
 
-**Frontend:** ⚛️ React · 🟦 TypeScript · 🔥 Next.js · 🎨 Tailwind CSS · 📊 Recharts  
-**Backend:** 🧠 Node.js · 🚀 Express.js · 🍃 MongoDB · 🐘 PostgreSQL  . SQL
-**Blockchain:** ⛓️ Solidity · 💎 Smart Contracts · 🪙 NFT Integration · 🌐 Web3.js  
-**IoT & Systems:** 🤖 Device Integration · 📡 Data Sync · ☁️ Cloud APIs  
-**Other Tools:** 🐳 Docker · ⚡ PM2 · 🕊️ RabbitMQ · 🔥 Firebase · 🧭 Git · 🎨 Figma  
+### Wasteknot
+A multi-tenant SaaS platform for the recycling industry.
 
----
-
-### 💡 What I Enjoy
-✨ Designing systems that are fast, reliable, and intuitive  
-🧩 Turning complex workflows into seamless user experiences  
-🌍 Building tools that make technology more sustainable and meaningful  
+- Event-driven architecture using RabbitMQ
+- React + React Native applications
+- Backend services built with Node.js
+- AWS deployment
+- Real-time logistics workflows
+- Inventory management
+- Sustainability reporting
 
 ---
 
-📚 *Always learning. Always building.*  
+### ScrapTrade
+
+Marketplace for buying and selling recyclable materials.
+
+- 100,000+ Android downloads
+- Daily market price updates
+- User verification
+- Marketplace backend
+- Admin dashboard
+
+---
+
+### Metabin
+
+IoT-enabled smart recycling system.
+
+- MQTT communication
+- QR/Barcode detection
+- Device provisioning
+- Mobile applications
+- Cloud dashboards
+- Hardware integration
+
+---
+
+### Authentication Platform
+
+A centralized authentication service powering multiple company applications.
+
+Features included:
+
+- JWT authentication
+- Role-based access control
+- Shared identity management
+- Secure application authorization
+- User management
+
+---
+
+## Current Focus
+
+I'm currently building:
+
+- VixPOS
+- Public engineering portfolio
+- Distributed systems examples
+- System design documentation
+
+## Core Expertise
+
+- Backend Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- REST API Design
+- Authentication & Authorization
+- Multi-tenant SaaS
+- Cloud Infrastructure
+- React Native
+- System Design
+
+## Technologies
+
+**Backend**
+
+Node.js • TypeScript • Express • MongoDB • PostgreSQL • RabbitMQ • Redis
+
+**Frontend**
+
+React • Next.js • HTML • CSS • Vanilla Javascript 
+
+**Cloud & Infrastructure**
+
+AWS • Docker • Nginx • PM2 • Linux
+
+**IoT**
+
+MQTT • Arduino Integration • Device Communication
+
+## Engineering Philosophy
+
+I enjoy designing systems that remain simple to operate as they grow in complexity.
+
+My focus is building software that is scalable, maintainable, and easy for other engineers to understand and extend.
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/nazir-mohammed-700252181
+- Email: nazirmohammed202@gmail.com
