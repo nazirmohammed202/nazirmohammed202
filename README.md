@@ -4,8 +4,6 @@
   <img src="./assets/banner.png" alt="Mohammed Nazir Banner" width="100%" />
 </p>
 
-# Mohammed Nazir
-
 ### Senior Software Engineer • Backend Architecture • Distributed Systems
 
 Designing scalable software systems that power real-world products—from multi-tenant SaaS platforms and IoT ecosystems to distributed backend services and mobile applications.
