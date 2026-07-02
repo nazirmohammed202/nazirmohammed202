@@ -1,118 +1,158 @@
+<div align="center">
+
 # Mohammed Nazir
 
-Senior Software Engineer specializing in backend architecture, distributed systems, and scalable SaaS platforms.
+### Senior Software Engineer • Backend Architecture • Distributed Systems
 
-Over the past 6+ years, I've designed and built production software across web, mobile, cloud, and IoT environments. My experience spans multi-tenant SaaS applications, event-driven systems, centralized authentication, marketplaces, and React Native applications used by real businesses.
+Designing scalable software systems that power real-world products—from multi-tenant SaaS platforms and IoT ecosystems to distributed backend services and mobile applications.
 
-# Highlights
+[LinkedIn](https://linkedin.com/in/nazir-mohammed-700252181) •
+Email: nazirmohammed202@gmail.com
 
-• Architected a multi-tenant SaaS platform used by 56 organizations.
-• Built a marketplace with 100,000+ Android installs.
-• Led an engineering team of up to 16 people.
-• Designed a centralized authentication platform shared across multiple applications.
-
-## What I've Built
-
-### Wasteknot
-A multi-tenant SaaS platform for the recycling industry.
-
-- Event-driven architecture using RabbitMQ
-- React + React Native applications
-- Backend services built with Node.js
-- AWS deployment
-- Real-time logistics workflows
-- Inventory management
-- Sustainability reporting
+</div>
 
 ---
 
-### ScrapTrade
+# Engineering Highlights
+
+- 🏗 Designed and built **Wasteknot**, a multi-tenant SaaS platform serving 56 organizations.
+- 📱 Built **ScrapTrade**, a marketplace with **100,000+ Android downloads**.
+- 🔐 Designed a centralized authentication platform used across multiple production applications.
+- ⚡ Built event-driven backend services using RabbitMQ.
+- 📡 Architected an IoT platform using MQTT for real-time communication between hardware and cloud services.
+- ☁️ Designed and deployed production infrastructure on AWS.
+- 👥 Led an engineering team of up to 16 developers while remaining hands-on in architecture and development.
+
+---
+
+# Engineering Philosophy
+
+I enjoy solving engineering problems where reliability, maintainability, and scalability matter.
+
+Most of my work has involved designing systems rather than individual applications—breaking complex business problems into simple, maintainable software that can evolve over time.
+
+When building software I optimize for:
+
+- Simplicity
+- Scalability
+- Reliability
+- Clear Architecture
+- Developer Experience
+- Long-term Maintainability
+
+---
+
+# Featured Projects
+
+## ♻️ Wasteknot
+
+A multi-tenant SaaS platform connecting recyclers, traders, aggregators and transporters.
+
+**Highlights**
+
+- Event-driven architecture
+- RabbitMQ messaging
+- React & React Native applications
+- REST APIs
+- MongoDB
+- AWS deployment
+- Role-based access control
+- Logistics management
+
+---
+
+## 📱 ScrapTrade
 
 Marketplace for buying and selling recyclable materials.
 
+**Highlights**
+
 - 100,000+ Android downloads
 - Daily market price updates
+- Marketplace architecture
 - User verification
-- Marketplace backend
 - Admin dashboard
 
 ---
 
-### Metabin
+## 📡 Metabin
 
-IoT-enabled smart recycling system.
+IoT-enabled smart recycling platform integrating hardware and cloud systems.
+
+**Highlights**
 
 - MQTT communication
-- QR/Barcode detection
+- Arduino integration
+- QR & Barcode scanning
 - Device provisioning
 - Mobile applications
-- Cloud dashboards
-- Hardware integration
+- Analytics dashboard
 
 ---
 
-### Authentication Platform
+## 🔐 Authentication Platform
 
-A centralized authentication service powering multiple company applications.
+A centralized identity platform powering multiple enterprise applications.
 
-Features included:
+Features include:
 
-- JWT authentication
-- Role-based access control
-- Shared identity management
-- Secure application authorization
-- User management
+- JWT Authentication
+- Role-Based Access Control
+- Shared Identity
+- Token Validation
+- Application Authorization
 
 ---
 
-## Current Focus
+# Current Focus
 
-I'm currently building:
+I'm currently working on:
 
-- VixPOS
-- Public engineering portfolio
-- Distributed systems examples
-- System design documentation
+- 🧾 VixPOS
+- 🏗 Public Engineering Portfolio
+- ⚙️ Distributed Systems Examples
+- 📚 System Design Documentation
+- ☁️ Cloud Architecture
 
-## Core Expertise
+---
 
-- Backend Architecture
-- Distributed Systems
-- Event-Driven Architecture
-- REST API Design
-- Authentication & Authorization
-- Multi-tenant SaaS
-- Cloud Infrastructure
-- React Native
-- System Design
+# Core Expertise
 
-## Technologies
-
-**Backend**
+### Backend
 
 Node.js • TypeScript • Express • MongoDB • PostgreSQL • RabbitMQ • Redis
 
-**Frontend**
+### Frontend
 
-React • Next.js • HTML • CSS • Vanilla Javascript 
+React • Next.js • React Native
 
-**Cloud & Infrastructure**
+### Infrastructure
 
-AWS • Docker • Nginx • PM2 • Linux
+AWS • Docker • Linux • PM2 • Nginx
 
-**IoT**
+### Architecture
 
-MQTT • Arduino Integration • Device Communication
-
-## Engineering Philosophy
-
-I enjoy designing systems that remain simple to operate as they grow in complexity.
-
-My focus is building software that is scalable, maintainable, and easy for other engineers to understand and extend.
+Distributed Systems • Multi-tenant SaaS • REST APIs • Authentication • MQTT • System Design
 
 ---
 
-## Connect
+# What You'll Find Here
 
-- LinkedIn: https://linkedin.com/in/nazir-mohammed-700252181
-- Email: nazirmohammed202@gmail.com
+This GitHub contains:
+
+- Production-inspired projects
+- System design notes
+- Backend architecture examples
+- Engineering experiments
+- Technical documentation
+- Lessons learned from building production systems
+
+---
+
+<div align="center">
+
+### Thanks for stopping by.
+
+I'm always interested in discussing software architecture, distributed systems, and building products that solve real-world problems.
+
+</div>
