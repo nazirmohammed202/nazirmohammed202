@@ -1,4 +1,8 @@
 <div align="center">
+  
+<p align="center">
+  <img src="./assets/banner.png" alt="Mohammed Nazir Banner" width="100%" />
+</p>
 
 # Mohammed Nazir
 
